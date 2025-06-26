@@ -30,6 +30,15 @@ The studio’s primary clientele includes:
 
 With this in mind, I prioritized a clean, minimal, and calming UI that is intuitive for all age groups. Key actions like calling, booking, and finding the studio are always one click away.
 
+### Hero Section
+
+### Desktop
+<img src="./assets/hero-desktop.png" width="700" alt="Homepage hero on desktop" />
+
+### Mobile
+<img src="./assets/hero-mobile.png" width="320" alt="Homepage hero on mobile" />
+
+
 
 ## Features & Integrations
 
@@ -40,7 +49,7 @@ With this in mind, I prioritized a clean, minimal, and calming UI that is intuit
 - Embedded **Google Maps**  
 - Social media links  
 - **Free SSL via Cloudflare**, saving the client costs  
-- Custom photos clicked and edited by me; stock photohraphs sourced from Unsplash & Pexels  
+- Custom photos clicked and edited by me; stock photographs sourced from Unsplash & Pexels  
 - Custom-written content to match the tone and values of the studio  
 - Fully responsive across breakpoints
 
