@@ -33,10 +33,10 @@ With this in mind, I prioritized a clean, minimal, and calming UI that is intuit
 ### Hero Section
 
 ### Desktop
-<img src="./assets/hero-desktop.png" width="700" alt="Homepage hero on desktop" />
+<img src="./assets/desktop.png" width="700" alt="Homepage hero on desktop" />
 
 ### Mobile
-<img src="./assets/hero-mobile.png" width="320" alt="Homepage hero on mobile" />
+<img src="./assets/mobile.png" width="320" alt="Homepage hero on mobile" />
 
 
 
