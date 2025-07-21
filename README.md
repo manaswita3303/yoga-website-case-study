@@ -85,9 +85,13 @@ I managed all aspects—from design and content to technical setup and client co
 - Unsplash, Pexels
 
 
-## Next Steps
+## Client Testimonial
 
-Waiting on a testimonial from the client. May expand the case study later with before/after insights on user engagement.
+_“We would like to express our appreciation for the website Manaswita developed for Swadhyaya Yoga Institute. The design is visually appealing and perfectly aligns with the calm, tranquil essence of yoga. The layout is intuitive and user-friendly, making it easy for visitors to navigate through sections and find class and resource information._
+
+_The use of color and imagery creates a warm, inviting atmosphere, and the content is both engaging and informative — encouraging users to explore more. Overall, it's a thoughtfully crafted website that beautifully enhances the user experience.”_
+
+— Raghavendra R, Founder of Swadhyaya Yoga Institute
 
 **Note**: The source code for this project is not publicly available due to privacy and security considerations. This repository is intended to showcase the design, features, and development process through a case study.
 
